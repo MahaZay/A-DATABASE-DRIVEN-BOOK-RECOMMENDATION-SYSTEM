@@ -1,9 +1,6 @@
-# Database-Driven Book Recommendation System
 
----
 
-## Project Title
-**Database-Driven Book Recommendation System**
+## **Database-Driven Book Recommendation System**
 
 ---
 
