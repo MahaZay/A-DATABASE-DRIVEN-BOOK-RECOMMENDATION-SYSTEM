@@ -83,7 +83,7 @@ The project utilizes **MySQL** for database creation, management, and querying. 
 
 ## Contributions
 Developed by:
-- Maha Hazimé-Zayour ([maha.hazime-zayour@stud.hslu.ch](mailto:maha.hazime-zayour@stud.hslu.ch))
+- Maha Hazimé-Zayour 
 - Incheol Jeong
 - Tejesh Reddy Koki
 - Vignesh Govindaraj
